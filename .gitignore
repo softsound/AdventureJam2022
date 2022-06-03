@@ -58,5 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# This is my fix - Ashley
+# This is my fix - Ashley (Hopefully this doesn't break anything)
 Chapter1/Library/
+Chapter1/Temp/
+Chapter1/Logs/
